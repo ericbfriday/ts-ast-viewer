@@ -74,7 +74,7 @@
     "dprint": "^0.7.0",
     "dprint-plugin-jsonc": "^0.2.2",
     "dprint-plugin-typescript": "^0.6.1",
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^5.0.0",
     "glob": "^7.1.4",
     "react-scripts": "^3.1.1",
     "ts-factory-code-generator-generator": "^0.3.0",
